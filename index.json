@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-24T06:30:17Z",
+  "source": {
+    "name": "Spxdev Official",
+    "url": ""
+  },
+  "plugins": [
+    {
+      "id": "spxdev-plugin-hello",
+      "kind": "plugin",
+      "name": "Hello",
+      "description": "First official Spxdev plugin: a nav item + native route, a chat-toolbar action, backend event/webhook handling, and operator settings.",
+      "author": "phongdoanthanh",
+      "categories": [
+        "tools"
+      ],
+      "icon_url": null,
+      "repo_url": "https://github.com/phongdoanthanh/spxdev-plugin-hello",
+      "version": "0.1.0",
+      "min_spxdev_version": "0.86.0",
+      "package_url": "https://github.com/phongdoanthanh/spxdev-plugin-hello/releases/download/v0.1.0/spxdev-plugin-hello-0.1.0.tar.gz",
+      "package_sha256": null,
+      "stars": 0,
+      "updated_at": "2026-09-24T06:29:43Z"
+    }
+  ]
+}
